@@ -6,3 +6,6 @@ yunzai-StarRail-plugin面板图
 请 **不要** 将自己的面板图放在本目录下，  
 
 **部分图片有风险导致封号，请酌情使用**
+
+## 链接
+- [鹤望兰 / StarRail-plugin](https://gitee.com/hewang1an/StarRail-plugin)

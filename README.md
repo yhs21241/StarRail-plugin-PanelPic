@@ -1,5 +1,5 @@
 # StarRail-plugin-PanelPic
-yunzai-StarRail-plugin面板图
+yunzai-StarRail-plugin面板图（仓库1）
 此目录用于放置角色卡片图像的增量版本，通过 【*图像更新】 即可更新图像  
   
 请自己导入的面板图放入StarRail-plugin/ resources / profile / normal-character文件夹内，  
